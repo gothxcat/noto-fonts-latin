@@ -1,4 +1,4 @@
-# Noto Fonts (Reduced)
+# Noto Fonts Minimised
 
 A minimal set of the Noto Fonts typeface by Google Fonts under the included [SIL Open Font License (OFL) v1.1](http://scripts.sil.org/OFL)
 
